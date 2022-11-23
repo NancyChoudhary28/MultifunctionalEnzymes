@@ -11,9 +11,10 @@ Requirements:
 Usage:
 
 multifunction_enzymes.py 
---in <FULL PATH TO KIPEs RESULT DIRECTORY>
---out <FULL PATH TO OUTPUT FILE>
---enzymes <COMMA-SEPARATED NAMES OF ENZYMES OF INTEREST>
+    
+    --in <FULL PATH TO KIPEs RESULT DIRECTORY>
+    --out <FULL PATH TO OUTPUT FILE>
+    --enzymes <COMMA-SEPARATED NAMES OF ENZYMES OF INTEREST>
 
 Suggested citation:
 
