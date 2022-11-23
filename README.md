@@ -17,4 +17,4 @@ multifunction_enzymes.py
 
 Suggested citation:
 
-    This repository
+    https://github.com/NancyChoudhary28/MultifunctionalEnzymes
