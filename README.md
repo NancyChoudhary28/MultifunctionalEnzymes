@@ -4,7 +4,8 @@ Screens KIPEs results for multifunction enzymes
 Processes KIPEs result to identify the multifunctional enzyme candidates in the pathway. This script provides the common enzymes that can perform different functions in a particular biosynthetic pathway.
 
 Requirements:
-    1. Python 2.7.x or above 
+    
+1. Python 2.7.x or above 
     
 Usage:
 
