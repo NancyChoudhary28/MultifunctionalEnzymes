@@ -7,6 +7,7 @@ Requirements:
     
 1. Python 2.7.x or above 
     
+
 Usage:
 
 multifunction_enzymes.py 
@@ -15,4 +16,5 @@ multifunction_enzymes.py
 --enzymes <COMMA-SEPARATED NAMES OF ENZYMES OF INTEREST>
 
 Suggested citation:
-This repository
+
+    This repository
